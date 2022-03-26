@@ -23,6 +23,7 @@ export default info;  function info(){
            <main className="inforwrappers">
                <h2>Info Page</h2>
             </main>
+            <Outlet />
        </div>
     </>
 );

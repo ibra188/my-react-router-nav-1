@@ -11,7 +11,7 @@ export default function grafici(){
                     <img src={logo} className="App-logo" alt="logo" />
                     <ul className='Nav_items'>
                         <li className='Nav_link'>
-                            <Link to="/home" className='Nav_list'>Home</Link>
+                            <Link to="/App" className='Nav_list'>Home</Link>
                             <Link to="/grafici" className='Nav_list'>Grafici</Link>
                             <Link to="/info" className='Nav_list'>info</Link>
                             <Link to="/resulti" className='Nav_list'>Resulti</Link>

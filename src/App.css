@@ -23,7 +23,9 @@ ul{
   text-decoration: none;
 }
 .graficiwrapper, 
-.inforwrappers{
+.inforwrappers,
+.homewrapper,
+.resultiwrapper{
   padding: 30px;
   background-color: #ecf0f1;
   color: #000;
